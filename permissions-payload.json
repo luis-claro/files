@@ -1,0 +1,8 @@
+[
+  {
+    "target_permission": "reporting-live-supervisor-actions-monitor",
+    "new_permissions": [
+      "reporting-live-supervisor-actions-force-logout"
+    ]
+  }
+]
