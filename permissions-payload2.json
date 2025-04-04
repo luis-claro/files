@@ -1,0 +1,10 @@
+[
+  {
+    "target_permission": "dummy-permission-one-view",
+    "new_permissions": [
+      "dummy-feature-app-permission-four",
+      "dummy-feature-app-permission-six",
+      "dummy-feature-app-permission-five"
+    ]
+  }
+]
