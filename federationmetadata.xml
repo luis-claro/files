@@ -30,14 +30,6 @@
             <KeyInfo
                 xmlns="http://www.w3.org/2000/09/xmldsig#">
                 <X509Data>
-                    <X509Certificate>MIIC8DCCAdigAwIBAgIQRF3Nnb4ehIpGBwLn9ubK0jANBgkqhkiG9w0BAQsFADA0MTIwMAYDVQQDEylNaWNyb3NvZnQgQXp1cmUgRmVkZXJhdGVkIFNTTyBDZXJ0aWZpY2F0ZTAeFw0yMzAxMTAxNTMzMzdaFw0yNjAxMTAxNTMzMzdaMDQxMjAwBgNVBAMTKU1pY3Jvc29mdCBBenVyZSBGZWRlcmF0ZWQgU1NPIENlcnRpZmljYXRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwJB7q8+jnzG5XB37FuqHfau9YvFlSTdfbShdt3g7i7U1KIrPiEji8zipBj013wN42X642e10DEsEcSVP15zxzwMGMbna5a5Z9q9AO3IimnYLAxFjdvp1j7bWmwE910q8VRTm/9DU7AQTg2sDTB5q7eiJSdaAwYf1WLNRS39cmoTWiSSdac4NHvyN2Hr2sag5lVR/37h44AL3ipGAIaIdsMeA6R26+dcgL+Q6s2EuMYkJcnjk8bIcO/qyvRHrkwr8kkGDaa7vE/+/IlxnpdD/vauZpLad8/r2Cx4WPZWX3F27qGBh2diXYTkJ71VYZDnwXiU9IkEYv1o1UPR05XhKiQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQA/+VlohPEU3PPsoe8e2gKSB0Q4Tr/KJjxaw+C7bYlrGn4hH70IoRI22md0Mor5ug4lgLnqyAh31gVywvrspSujaGWdgkTo960JdfWvtD0zYcHWTZ1huLp88MmwFPspGfz5SoweI95Y5ydfUOctQUKe5eglZKQux8lEDTOnHV16iOwcsmJKIyJOGMe8yOn/45IOY3sNpiX90EUNOGipedPTx1DQY/AsAkoLvPO46r8QV1ZtWjzlp30hS7FHKMNGrdPthN+2Ro/wp5rnrhEp6oFGO6BzC5y3gD7/MwMGj4rj+2qVgSN2d0/pPNJw3+VcMCedwKsXiwjcXwgDuG8/f6vR</X509Certificate>
-                </X509Data>
-            </KeyInfo>
-        </KeyDescriptor>
-        <KeyDescriptor use="signing">
-            <KeyInfo
-                xmlns="http://www.w3.org/2000/09/xmldsig#">
-                <X509Data>
                     <X509Certificate>MIIC8DCCAdigAwIBAgIQJqUvdInKq6NBUOfHFSmq6TANBgkqhkiG9w0BAQsFADA0MTIwMAYDVQQDEylNaWNyb3NvZnQgQXp1cmUgRmVkZXJhdGVkIFNTTyBDZXJ0aWZpY2F0ZTAeFw0yNTEyMzAxMzM2MTJaFw0yODEyMzAxMzM2MTBaMDQxMjAwBgNVBAMTKU1pY3Jvc29mdCBBenVyZSBGZWRlcmF0ZWQgU1NPIENlcnRpZmljYXRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAur42a7WZei3O0329D5mPJJaBGTrQAeABNolVSdjlXCLSndAovO64YE8Rze/JNRGtWha9esS63GAF9C34rx2NaPRXKQbT7zTTNZOcsq8dbFoPOGUjvtfgprRtsr7Ggaf6wfaXg0P9RMY/nulcIgo5F2Xm3iclscDIJGe/eeUByoxiPm8k9jf0/167/bDMcCxyVFAaugDEAhs3OktO4HWsIguAup2030P9WlmFVmDZiwiaUFxNdfPKl3hluesaQncqz/0V3O4wGsMhUPAk7fFP+jRCvAo/DrAfNJiW6mvzVKl1ad5Ojne3yBAbc9uCb3fiuhnKS4SXdlvMpm/5L57D+QIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQA8tZ/OL35zIsd+bfvFfA1ElUCI2my9ZZyiO7rCNgPbAK3FhdaSgI5JHCAposU882N4q4woTQGOiltLuXoXlk5yhbxGCK0WpxGskincSLlSmr2evACAIU1qsANVzKUFB4LpYSoqWFLJJ+f5a7c6T2vXGruqbAtKc0X3GbE6RVrfrmedcQ5yh7ro4wIkttcdMRckhIljYduQQt71P+DnKOmTOBtioIbsDuipEzCHqaiOvbBuZxxnc4S99TGV6FxzWcWDbsxJGducl8jNZdcVChD//Fr0JlNmypx7FNufaIchQmv2OFCTW1mHOiW+UTAVXmhMniFmhEU0yEDci1u+JSx9</X509Certificate>
                 </X509Data>
             </KeyInfo>
@@ -155,14 +147,6 @@
     <RoleDescriptor xsi:type="fed:ApplicationServiceType" protocolSupportEnumeration="http://docs.oasis-open.org/wsfed/federation/200706"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:fed="http://docs.oasis-open.org/wsfed/federation/200706">
-        <KeyDescriptor use="signing">
-            <KeyInfo
-                xmlns="http://www.w3.org/2000/09/xmldsig#">
-                <X509Data>
-                    <X509Certificate>MIIC8DCCAdigAwIBAgIQRF3Nnb4ehIpGBwLn9ubK0jANBgkqhkiG9w0BAQsFADA0MTIwMAYDVQQDEylNaWNyb3NvZnQgQXp1cmUgRmVkZXJhdGVkIFNTTyBDZXJ0aWZpY2F0ZTAeFw0yMzAxMTAxNTMzMzdaFw0yNjAxMTAxNTMzMzdaMDQxMjAwBgNVBAMTKU1pY3Jvc29mdCBBenVyZSBGZWRlcmF0ZWQgU1NPIENlcnRpZmljYXRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwJB7q8+jnzG5XB37FuqHfau9YvFlSTdfbShdt3g7i7U1KIrPiEji8zipBj013wN42X642e10DEsEcSVP15zxzwMGMbna5a5Z9q9AO3IimnYLAxFjdvp1j7bWmwE910q8VRTm/9DU7AQTg2sDTB5q7eiJSdaAwYf1WLNRS39cmoTWiSSdac4NHvyN2Hr2sag5lVR/37h44AL3ipGAIaIdsMeA6R26+dcgL+Q6s2EuMYkJcnjk8bIcO/qyvRHrkwr8kkGDaa7vE/+/IlxnpdD/vauZpLad8/r2Cx4WPZWX3F27qGBh2diXYTkJ71VYZDnwXiU9IkEYv1o1UPR05XhKiQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQA/+VlohPEU3PPsoe8e2gKSB0Q4Tr/KJjxaw+C7bYlrGn4hH70IoRI22md0Mor5ug4lgLnqyAh31gVywvrspSujaGWdgkTo960JdfWvtD0zYcHWTZ1huLp88MmwFPspGfz5SoweI95Y5ydfUOctQUKe5eglZKQux8lEDTOnHV16iOwcsmJKIyJOGMe8yOn/45IOY3sNpiX90EUNOGipedPTx1DQY/AsAkoLvPO46r8QV1ZtWjzlp30hS7FHKMNGrdPthN+2Ro/wp5rnrhEp6oFGO6BzC5y3gD7/MwMGj4rj+2qVgSN2d0/pPNJw3+VcMCedwKsXiwjcXwgDuG8/f6vR</X509Certificate>
-                </X509Data>
-            </KeyInfo>
-        </KeyDescriptor>
         <KeyDescriptor use="signing">
             <KeyInfo
                 xmlns="http://www.w3.org/2000/09/xmldsig#">
